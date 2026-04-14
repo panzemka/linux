@@ -1,0 +1,7 @@
+ls ~
+cd ~/Downloads
+ls
+echo "" > file.txt
+cat file.txt
+cd /home/$USER
+cd ~

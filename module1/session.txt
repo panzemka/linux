@@ -1,0 +1,8 @@
+panzemka@Ubuntu:~$ ls ~
+Desktop Documents Downloads Music Pictures Public snap Templates Videos
+panzemka@Ubuntu:~$ cd ~/Downloads
+panzemka@Ubuntu:~/Downloads$ ls
+panzemka@Ubuntu:~/Downloads$ echo "" > file.txt
+panzemka@Ubuntu:~/Downloads$ cat file.txt
+panzemka@Ubuntu:~/Downloads$ cd /home/$USER
+panzemka@Ubuntu:~$ cd ~
